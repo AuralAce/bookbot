@@ -1,3 +1,3 @@
 # bookbot
 
-Creating a python bookbot project
+my first project
